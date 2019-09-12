@@ -20,7 +20,7 @@ These are commands that I had little exposure to previously
 * xargs pipe something through xargs to remove trailing whitespaces
 * wrap commands in `` and assign to a variable
 * tee -a allows you to append to a file, i noticed cat put the contents into the file. i only wanted the list of files
-* > /dev/null to supress stdout
+* "> /dev/null" to supress stdout
 
 
 
